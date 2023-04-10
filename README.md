@@ -4,7 +4,7 @@ Hi 👋 My name is Mashaheer Jaffry
 Flutter Developer
 -----------------
 
-Hi, I'm a flutter developer with professional experience of more than 3 years. I've designed and developed 50+ iOS and Android apps. Designed and developed international apps like DDN, Flora, and Super Gas Having a CS background helps me a lot to enhance my developing skills as a flutter developer. As a professional flutter developer client satisfaction is my priority. Now it's your turn to enlighten your app.
+Hello there! I'm a highly skilled Flutter developer with a passion for creating stunning and functional mobile applications. With years of experience, I've honed my skills in developing apps that are user-friendly, efficient, and visually appealing. My expertise lies in creating custom mobile applications using the Flutter framework for both Android and iOS platforms. Whether you need a simple app or a complex one, I can help you bring your ideas to life with my skills in UI/UX design, database integration, and API development. I am committed to delivering high-quality work.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [my linkedIn.](http://www.linkedin.com/in/mashaheer-jaffry-158954214/)
