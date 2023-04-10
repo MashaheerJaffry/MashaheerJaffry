@@ -8,7 +8,7 @@ Hi, I'm a flutter developer with professional experience of more than 3 years. I
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [my linkedIn.](http://www.linkedin.com/in/mashaheer-jaffry-158954214/)
-* ✉️  You can contact me at [mashaheerjay@gmail.com](mailto:mashaheerjay@gmail.com)
+* ✉️  You can contact me at [mashaheerism@gmail.com](mailto:mashaheerism@gmail.com)
 * 🧠  I'm learning Advance Programming Techniques to make my code more efficient
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I also have an experience in website designing and development.
