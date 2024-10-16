@@ -7,11 +7,11 @@ Flutter Developer
 Hello there! I'm a highly skilled Flutter developer with a passion for creating stunning and functional mobile applications. With years of experience, I've honed my skills in developing apps that are user-friendly, efficient, and visually appealing. My expertise lies in creating custom mobile applications using the Flutter framework for both Android and iOS platforms. Whether you need a simple app or a complex one, I can help you bring your ideas to life with my skills in UI/UX design, database integration, and API development. I am committed to delivering high-quality work.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [my website.]([http://www.linkedin.com/in/mashaheer-jaffry-158954214/](https://mashaheerjaffry.github.io/))
+* 🖥️  See my portfolio at [my website.](http://www.linkedin.com/in/mashaheer-jaffry-158954214/](https://mashaheerjaffry.github.io/)
 * ✉️  You can contact me at [mashaheerism@gmail.com](mailto:mashaheerism@gmail.com)
-* 🧠  I'm learning Advance Programming Techniques to make my code more efficient
+* 🧠  I'm learning advanced programming Techniques to make my code more efficient
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I also have an experience in website designing and development.
+* ⚡  I also have experience in website design and development.
 
 <a href="https://www.twitter.com/jafryy_thoughts" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jafryy_thoughts?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=171717"
